@@ -12,8 +12,7 @@ namespace task_28._12._2022
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //SqlConnection connection = new SqlConnection("data source =  DESKTOP-6GG09VO\\SQLEXPRESS; database = Student ; integrated security=SSPI");//
-           // SqlCommand command1 = new SqlCommand($"Insert into Table_1 (comment)values({TextBox1.Text})", connection);//
+     
         }
 
         protected void Button1_Click(object sender, EventArgs e)
